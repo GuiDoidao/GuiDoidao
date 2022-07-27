@@ -9,3 +9,10 @@
   - 👾 Discord: GuiDoidão#3296 | https://discord.com/users/438822462851907594
   - 🐦 Twitter: @guidoidao64 | https://twitter.com/guidoidao64
   - 📧 E-Mail: guidoidao@proton.me
+
+<div align="center">
+  <a href="https://github.com/GuiDoidao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiDoidao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDoidao&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+<div style="display: inline_block"><br>
