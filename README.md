@@ -1,16 +1,11 @@
-### Hi there 👋
+### Salve! 👋
 
-<!--
-**GuiDoidao/GuiDoidao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Atualmente trabalho apenas com alguns projetinhos pessoais em 🐍Python🐍 (💙💛) e ☕Java☕ ;
+- 📚 Atualmente estou focando nos estudos de 🐍Python🐍 e ☕Java☕;
+- 🤝 Estou disposto à ajudar no que for preciso, se estivar ao meu alcance;
+- 😄 Pronomes: Ele/Dele;
+- 📫 Formas de entrar em contato comigo:
+  - 📱 Whatsapp: +55 55 999547562
+  - 👾 Discord: GuiDoidão#3269
+  - 🐦 Twitter: @guidoidao64
+  - 📧 E-Mail: guidoidao@proton.me
