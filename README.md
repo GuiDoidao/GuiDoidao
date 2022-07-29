@@ -1,4 +1,4 @@
-### Salve! 👋
+### Salve 👋! Meu nome é Guilherme Eduardo Krohn Schaefer, tenho 17 anos
 
 - 🖥️ Atualmente trabalho apenas com alguns projetinhos pessoais em 🐍Python🐍 (💙💛) e ☕Java☕ ;
 - 📚 Atualmente estou focando nos estudos de 🐍Python🐍 e ☕Java☕;
