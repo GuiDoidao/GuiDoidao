@@ -15,8 +15,7 @@
   <a href="https://github.com/GuiDoidao">
   <img>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiDoidao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-  <img>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDoidao&layout=compact&langs_count=7&theme=tokyonight&repo=github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDoidao&layout=compact&langs_count=7&theme=tokyonight&repo=github-readme-stats">
 </div>
 <div style="display: inline_block"><br>
 
