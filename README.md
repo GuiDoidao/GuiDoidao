@@ -1,12 +1,12 @@
-### Salve 👋! Meu nome é Guilherme Eduardo Krohn Schaefer, tenho 17 anos
+### Salve 👋! Meu nome é Guilherme Eduardo Krohn Schaefer, tenho 19 anos
 
-- 🖥️ Atualmente trabalho apenas com alguns projetinhos pessoais em 🐍Python🐍 (💙💛) e ☕Java☕ ;
-- 📚 Atualmente estou focando nos estudos de 🐍Python🐍 e ☕Java☕;
+- 🖥️ Atualmente trabalho apenas com alguns projetinhos pessoais em 🐍Python🐍 (💙💛) ;
+- 📚 Atualmente estou focando nos estudos de 🐍Python🐍;
 - 🤝 Estou disposto à ajudar no que for preciso, se estivar ao meu alcance;
 - 😄 Pronomes: Ele/Dele;
 - 📫 Formas de entrar em contato comigo:
   - 👾 Discord: GuiDoidão#3296 | https://discord.com/users/438822462851907594
-  - 🐦 Twitter: @guidoidao64 | https://twitter.com/guidoidao64
+  - 🐦 X: @guii_schaefer | https://x.com/guii_schaefer
   - 📧 E-Mail: guidoidao@proton.me
 
 ##
